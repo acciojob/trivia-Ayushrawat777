@@ -1,2 +1,9 @@
-
+.city{
+   padding: 15px;
+   background-color: #f8fffe;
+   font-weight: bold;
+    margin: 10px;
+    max-width: 600px;
+    border-left: 8px solid green;
+}
 /* Your CSS Code here. */
